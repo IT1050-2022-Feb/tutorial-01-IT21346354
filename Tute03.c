@@ -10,10 +10,8 @@ int main()
 	
 	while(n<=x)
 	{
-		
 		tot=tot+n;
 		n=n+1;
-		
 	}
 	printf("Sum is :%d",tot);
 	
